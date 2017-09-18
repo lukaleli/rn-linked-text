@@ -1,0 +1,1 @@
+# rn-linked-text
