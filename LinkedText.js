@@ -36,8 +36,8 @@ class LinkedText extends Component {
 
 LinkedText.propTypes = {
   children: PropTypes.string,
-  style: PropTypes.oneOfType([PropTypes.number, PropTypes.object]),
-  linkStyle: PropTypes.oneOfType([PropTypes.number, PropTypes.object]),
+  style: PropTypes.any,
+  linkStyle: PropTypes.any,
   onLinkPress: PropTypes.func,
 }
 
