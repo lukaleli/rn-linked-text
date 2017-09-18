@@ -1,0 +1,27 @@
+{
+  "name": "rn-linked-text",
+  "version": "1.0.0",
+  "description": "Text component with links for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaleli/rn-linked-text.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "component"
+  ],
+  "author": "Lukasz Lelinski <lukasz@lelinski.pl> (https://programmersbyproducts.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaleli/rn-linked-text/issues"
+  },
+  "homepage": "https://github.com/lukaleli/rn-linked-text#readme",
+  "dependencies": {
+    "prop-types": "15.5.10"
+  }
+}
