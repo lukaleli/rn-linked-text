@@ -1,5 +1,7 @@
 # React Native LinkedText Component
+
 [![npm](https://img.shields.io/npm/v/rn-linked-text.svg?style=plastic)](https://npmjs.org/package/rn-linked-text) [![npm](https://img.shields.io/npm/dm/rn-linked-text.svg?style=plastic)](https://npmjs.org/package/rn-linked-text) [![npm](https://img.shields.io/npm/dt/rn-linked-text.svg?style=plastic)](https://npmjs.org/package/rn-linked-text)
+
 LinkedText component for React Native (support for Android and iOS). Provides component to render nested, styleable and clickable links within native Text component.
 
 # Component's API
